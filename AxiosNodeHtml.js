@@ -1,5 +1,9 @@
 // Descripttion : Node.js HTML client
 // requires : npm install express ejs body-parser
+// "axios": "^1.6.7",
+//     "body-parser": "^1.20.2",
+//     "ejs": "^3.1.9",
+//     "express": "^4.18.2"
 
 const express = require('express');
 const axios  = require('axios');
